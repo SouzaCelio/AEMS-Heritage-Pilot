@@ -6,8 +6,8 @@ Part of the **Adaptive Environmental Modeling System (AEMS)** framework,
 developed by the Digital Sovereignty for Heritage initiative in
 partnership with the **Offa Heritage Documentation Initiative** and
 **Wikimedia Contributors Nigeria**.
-
-![Map Preview](docs/map_preview.png)
+# map link
+https://souzacelio.github.io/AEMS-Heritage-Pilot/offa_heritage_map.html
 
 ## Overview
 
